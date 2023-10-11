@@ -19,7 +19,7 @@ We will create a security group for accountants from the DC-Server and assign �
 
 <h2>Demonstration </h2>
 
-Log into DC-Serve as jane.admin. On the C:\ Drive, create a folder named “Accounting”
+Log into DC-Server as jane.admin. On the C:\ Drive, create a folder named “Accounting”
 ![image](https://github.com/SedinamA/Security-File-Share/assets/146953803/05e73f5c-569e-4526-a12b-c086b6fba269)
 ![image](https://github.com/SedinamA/Security-File-Share/assets/146953803/806da8c2-3b9d-4c03-b8e4-1b3d3cc98bac)
 ![image](https://github.com/SedinamA/Security-File-Share/assets/146953803/b8b3eaf0-7c33-40a4-b598-ac3b7e5d7ff7)
@@ -35,7 +35,7 @@ On the “accounting” folder set the permissions that follow; Folder-accountin
 ![image](https://github.com/SedinamA/Security-File-Share/assets/146953803/2a02246b-26fe-4092-b614-1e07a94f7afb)
 ![image](https://github.com/SedinamA/Security-File-Share/assets/146953803/dc643112-fa76-4aab-859c-a3802c21bad5)
 
-log into Client-VM as bek.laxe and try to access the "not for use file" watch it fail. then log out of Client-VM
+log in to Client-VM as bek.laxe and try to access the "not for use file" and watch it fail; then log out of Client-VM
 ![image](https://github.com/SedinamA/Security-File-Share/assets/146953803/cc1a6a0a-350c-41eb-96c4-f487e73acae9)
 ![image](https://github.com/SedinamA/Security-File-Share/assets/146953803/5d18f488-249b-4c9e-a84c-399f7f984c4e)
 ![image](https://github.com/SedinamA/Security-File-Share/assets/146953803/243b1ae8-d898-4925-9e85-768941c7ee6e)
